@@ -1,0 +1,11 @@
+
+# PyCharm
+/.idea/
+
+# Data files in nltk_german_pos
+/nltk_german_pos/data/*
+!/nltk_german_pos/data/.gitkeep
+
+# Python
+/venv/
+__pycache__/
